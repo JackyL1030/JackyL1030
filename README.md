@@ -36,5 +36,5 @@ Retro Polaroid-style React application that fetches photos from the Unsplash API
 
 ## Connect With Me
 
-- [LinkedIn]www.linkedin.com/in/jacky-lai-dev
+- LinkedIn: www.linkedin.com/in/jacky-lai-dev
 - Email: jackylai.dev@gmail.com
