@@ -1,16 +1,44 @@
 ## Hi there 👋
 
 <!--
-**JackyL1030/JackyL1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jacky Lai
 
-Here are some ideas to get you started:
+### Junior Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a junior full-stack developer focused on building web applications with JavaScript, React, Node.js, Express, and MongoDB.
+
+I enjoy building projects that solve practical problems while improving my skills in frontend development, backend APIs, databases, authentication, and application architecture.
+
+## Tech Stack
+
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- REST APIs
+- Git & GitHub
+
+## Featured Projects
+
+### Flexora
+Employee shift scheduling and swap management application built with the MERN stack.
+
+**Tech:** React, Node.js, Express, MongoDB, Mongoose, JWT
+
+### GameDex
+REST API for managing video games, reviews, and achievements.
+
+**Tech:** Node.js, Express.js, MongoDB, Mongoose
+
+### Polaroid Lens
+Retro Polaroid-style React application that fetches photos from the Unsplash API.
+
+**Tech:** React, JavaScript, CSS, REST API
+
+## Connect With Me
+
+- [LinkedIn]www.linkedin.com/in/jacky-lai-dev
+- Email: jackylai.dev@gmail.com
 -->
