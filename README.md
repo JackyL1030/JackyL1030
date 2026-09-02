@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-### Junior Full-Stack Developer
+### Junior Software Engineer
 
-I'm a junior full-stack developer focused on building web applications with JavaScript, React, Node.js, Express, and MongoDB.
+I'm a junior software engineer focused on building full-stack web applications with JavaScript, React, Node.js, Express.js, and MongoDB.
 
-I enjoy building projects that solve practical problems while improving my skills in frontend development, backend APIs, databases, authentication, and application architecture.
+I enjoy building practical applications while developing my skills in frontend development, backend APIs, databases, authentication, real-time functionality, and application architecture.
 
 ## Tech Stack
 
@@ -15,26 +15,44 @@ I enjoy building projects that solve practical problems while improving my skill
 - MongoDB
 - Mongoose
 - REST APIs
+- JWT Authentication
 - Git & GitHub
 
 ## Featured Projects
 
 ### Flexora
-Employee shift scheduling and swap management application built with the MERN stack.
 
-**Tech:** React, Node.js, Express, MongoDB, Mongoose, JWT
+Employee shift scheduling and swap management application built with the MERN stack, featuring JWT authentication, role-based authorization, shift conflict detection, and manager approval workflows.
 
-### GameDex
-REST API for managing video games, reviews, and achievements.
+**Tech:** React, Node.js, Express.js, MongoDB, Mongoose, JWT
 
-**Tech:** Node.js, Express.js, MongoDB, Mongoose
+[**View on GitHub →**](https://github.com/JackyL1030/Capstone-Flexora)
+
+### iRelay
+
+Full-stack real-time messaging application with user authentication, persistent messaging, media uploads, and real-time communication.
+
+**Tech:** React, Node.js, Express.js, MongoDB, Socket.IO, Clerk, ImageKit
+
+[**View on GitHub →**](https://github.com/JackyL1030/iRelay)
+
+### ShopEase
+
+Responsive e-commerce frontend featuring product browsing, product details, shopping cart functionality, authentication flows, checkout, and React-based state management.
+
+**Tech:** React, JavaScript, Vite, React Router, React Context, React Hook Form
+
+[**View on GitHub →**](https://github.com/JackyL1030/ShopEase)
 
 ### Polaroid Lens
-Retro Polaroid-style React application that fetches photos from the Unsplash API.
 
-**Tech:** React, JavaScript, CSS, REST API
+Retro Polaroid-style React application that uses the Unsplash API to dynamically retrieve and display photos.
+
+**Tech:** React, JavaScript, HTML, CSS, Unsplash API
+
+[**View on GitHub →**](https://github.com/JackyL1030/Polaroid-Lens) | [**Live Demo →**](https://polaroid-lens.netlify.app/)
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/jacky-lai-dev
-- Email: jackylai.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/jacky-lai-dev](http://www.linkedin.com/in/jacky-lai-dev)
+- **Email:** [jackylai.dev@gmail.com](mailto:jackylai.dev@gmail.com)
