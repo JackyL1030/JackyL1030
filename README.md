@@ -34,7 +34,7 @@ Full-stack real-time messaging application with user authentication, persistent 
 
 **Tech:** React, Node.js, Express.js, MongoDB, Socket.IO, Clerk, ImageKit
 
-[**View on GitHub →**](https://github.com/JackyL1030/iRelay)
+[**View on GitHub →**](https://github.com/JackyL1030/iRelay) | [**Live Demo →**](https://irelay.onrender.com/)
 
 ### ShopEase
 
@@ -42,7 +42,7 @@ Responsive e-commerce frontend featuring product browsing, product details, shop
 
 **Tech:** React, JavaScript, Vite, React Router, React Context, React Hook Form
 
-[**View on GitHub →**](https://github.com/JackyL1030/ShopEase)
+[**View on GitHub →**](https://github.com/JackyL1030/ShopEase) | [**Live Demo →**](https://shop-ease-pi-lilac.vercel.app/)
 
 ### Polaroid Lens
 
